@@ -9,6 +9,10 @@ Training data –Training dataset contains 64000 observations from previous camp
 
 Evaluation Metric : ROCAUC Score
 
+In this project, we will be doing:
+- Different Classification ML models, namely Decision Tree, Random Forest, Gradient Boosting Classifier with the support of PCA and Hyper-parameter Tuning
+- Basic ANN with a cerntain number of hidden layers, plus Drop-out Layers added to observe the differences
+
 Citation
 
 @misc{target-marketing-for-canadian-bank-2023s-aml-1413,
