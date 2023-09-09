@@ -13,6 +13,8 @@ In this project, we will be doing:
 - Different Classification ML models, namely Decision Tree, Random Forest, Gradient Boosting Classifier with the support of PCA and Hyper-parameter Tuning
 - Basic ANN with a cerntain number of hidden layers, plus Drop-out Layers added to observe the differences
 
+Result: With this approach, we have achieved the highest score on the Kaggle Competition Leaderboard for this project.
+
 Citation
 
 @misc{target-marketing-for-canadian-bank-2023s-aml-1413,
